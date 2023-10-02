@@ -1,0 +1,7 @@
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 2\Zadacha1\Zadacha1\bin\Debug\Zadacha1.exe.config
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 2\Zadacha1\Zadacha1\bin\Debug\Zadacha1.exe
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 2\Zadacha1\Zadacha1\bin\Debug\Zadacha1.pdb
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 2\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csproj.AssemblyReference.cache
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 2\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 2\Zadacha1\Zadacha1\obj\Debug\Zadacha1.exe
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 2\Zadacha1\Zadacha1\obj\Debug\Zadacha1.pdb
