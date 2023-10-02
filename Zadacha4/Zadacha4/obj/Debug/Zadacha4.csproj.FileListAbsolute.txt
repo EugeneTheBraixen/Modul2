@@ -1,0 +1,7 @@
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 2\Zadacha4\Zadacha4\bin\Debug\Zadacha4.exe.config
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 2\Zadacha4\Zadacha4\bin\Debug\Zadacha4.exe
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 2\Zadacha4\Zadacha4\bin\Debug\Zadacha4.pdb
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 2\Zadacha4\Zadacha4\obj\Debug\Zadacha4.csproj.AssemblyReference.cache
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 2\Zadacha4\Zadacha4\obj\Debug\Zadacha4.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 2\Zadacha4\Zadacha4\obj\Debug\Zadacha4.exe
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Александрович Евгений. Модуль 2\Zadacha4\Zadacha4\obj\Debug\Zadacha4.pdb
